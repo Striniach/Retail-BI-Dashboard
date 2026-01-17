@@ -10,7 +10,7 @@ The provided dataset represents the management of multiple retail stores and inc
 Project constraints included focusing on stores with Key 1–10, cleaning store names by removing “contoso” and “store”, and using the 2008–2009 time period as the reference window.
 
 ## Tools & workflow
-![Table_Relationships](images\relationship.png)
+![Table_Relationships](images/relationship.png)
 
 - **Excel**
   - Initial inspection and data preparation (standardizing fields, applying required filters, validating data ranges, and cleaning store naming conventions).
